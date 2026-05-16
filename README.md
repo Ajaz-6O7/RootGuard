@@ -10,6 +10,7 @@
 <img width="960" height="540" alt="RootGuard_Final(8)" src="https://github.com/user-attachments/assets/86bd1322-971e-4d82-af33-c64a4e5d2894" />
 <img width="960" height="540" alt="RootGuard_Final(9)" src="https://github.com/user-attachments/assets/dfb4877c-3ff0-4088-8e48-8ef83ca11ca6" />
 
-##Simulation
+## Simulation
 Click the link below to open and play with the interactive design simulation:
-👉 **[Launch Interactive Simulation](https://github.io)**
+
+ **[Launch Interactive Simulation](https://github.io)**
