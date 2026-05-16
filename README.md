@@ -13,4 +13,4 @@
 ## Simulation
 Click the link below to open and play with the interactive design simulation:
 
- **[Launch Interactive Simulation](https://ajaz-6o7.github.io/RootGuard/)**
+ **[Launch Interactive Simulation](https://ajaz-6o7.github.io/RootGuard/web_simulation/)**
