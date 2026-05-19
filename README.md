@@ -7,7 +7,7 @@
 <img width="960" height="540" alt="RootGuard_Final(5)" src="https://github.com/user-attachments/assets/4d6eea72-d100-473f-803c-747d99ddf114" />
 <img width="960" height="540" alt="RootGuard_Final(6)" src="https://github.com/user-attachments/assets/63176e81-a878-411f-9071-be882431ff5b" />
 <img width="960" height="540" alt="RootGuard_Final(7)" src="https://github.com/user-attachments/assets/12bd75de-4fdf-4789-a5b4-bc0ac40e752a" />
-<img width="960" height="540" alt="RootGuard_Final(8)" src="https://github.com/user-attachments/assets/86bd1322-971e-4d82-af33-c64a4e5d2894" />
+<img width="960" height="540" alt="RootGuard_Final(10)" src="https://github.com/user-attachments/assets/947c99d0-d66d-49df-aaad-aba65e53cd3b" />
 <img width="960" height="540" alt="RootGuard_Final(9)" src="https://github.com/user-attachments/assets/dfb4877c-3ff0-4088-8e48-8ef83ca11ca6" />
 
 ## Simulation
